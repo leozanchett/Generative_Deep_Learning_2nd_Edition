@@ -93,6 +93,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_python311/
 
 # Spyder project settings
 .spyderproject
@@ -107,3 +108,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#json
+*.json
